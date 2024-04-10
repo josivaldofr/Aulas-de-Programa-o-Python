@@ -1,0 +1,19 @@
+1-Crie uma classe chamada Carro com atributos como marca, modelo, ano e cor. Adicione métodos para ligar o carro, desligar o carro e acelerar.
+
+2-Crie uma classe Animal com características como nome, idade e espécie. Implemente métodos para fazer o animal emitir um som e para mostrar informações sobre ele.
+
+3-Crie uma classe chamada Conta Bancária com atributos como número da conta, saldo e titular. Implemente métodos para depositar dinheiro, sacar dinheiro e mostrar o saldo atual.
+
+4-Crie uma classe Produto que represente um item em uma loja. Inclua atributos como nome, preço e quantidade em estoque. Adicione métodos para atualizar o estoque e calcular o preço total com base na quantidade desejada.
+
+5-Crie  uma classe Triângulo com atributos para os lados do triângulo. Adicione métodos para calcular a área e o perímetro do triângulo.
+
+6- Crie uma classe Pessoa com características como nome, idade e altura. Inclua métodos para definir e obter essas informações, além de um método para cumprimentar a pessoa.
+
+7-Crie uma classe Livro com atributos como título, autor e número de páginas. Implemente métodos para mostrar informações sobre o livro e para calcular a quantidade de palavras por página.
+
+8-Crie uma classe Retângulo com atributos para altura e largura. Adicione métodos para calcular a área e o perímetro do retângulo.
+
+9-Crie uma classe Estudante com características como nome, idade e notas. Adicione métodos para calcular a média das notas e para mostrar se o estudante foi aprovado ou reprovado.
+
+10-Crie uma classe Pedido para representar um pedido feito em um restaurante. Inclua atributos como itens do pedido, total a ser pago e status do pedido. Adicione métodos para adicionar itens ao pedido, calcular o total e alterar o status.
