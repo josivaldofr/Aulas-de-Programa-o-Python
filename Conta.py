@@ -22,8 +22,10 @@ class Conta():
         else:
             print("saldo insuficiente")       
                    
-    def depositar(self,valor):
+    def deposita(self,valor):
         self._saldo += valor    
         
     def extrato(self):
         print("Cliente: ",self._titular,"Saldo Atual:", self._saldo)    
+        
+        
